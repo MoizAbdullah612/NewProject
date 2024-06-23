@@ -1,0 +1,15 @@
+h{ color: red;
+border-width: 20px;
+border-style: solid;
+border-color: aliceblue;
+}
+p { color: rgb(232, 177, 83);}
+button{ color: rgb(215, 215, 215); background-color: black;}
+body{background-color:black;}
+div{color: gold;}
+.heading{color: red;}
+#one {font-size: 100px;}
+p{text-align: center;}
+p{text-transform: capitalize;}
+#outer{font-size: 50px;}
+#inner{font-size: 25px;}
